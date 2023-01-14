@@ -1,6 +1,6 @@
 {
 	"setting": {
-		"options": "Options",
+		"options": "ఐఛ్చికాలు ",
 		"plugin": "Plugin",
 		"builtin-plugins": "Core plugins",
 		"plugin-options": "Plugin options",
@@ -9,7 +9,7 @@
 		"msg-restart-required": "Changing this option requires a restart to take effect.",
 		"editor": {
 			"name": "Editor",
-			"section-general": "సాదారణం",
+			"section-general": "సాధారణం",
 			"section-behavior": "Behavior",
 			"section-display": "Display",
 			"option-spellcheck": "పదపరిశీలన",
@@ -82,14 +82,14 @@
 			"button-start-new-editor": "Start new editor"
 		},
 		"file": {
-			"name": "Files & Links",
+			"name": "ఫైళ్లు & లంకెలు",
 			"option-confirm-file-deletion": "Confirm file deletion",
 			"option-confirm-file-deletion-description": "Whether you want to get prompted to confirm file deletion.",
-			"option-delete-destination": "Deleted files",
+			"option-delete-destination": "తీసివేయబడిన ఫైళ్లు",
 			"option-delete-destination-description": "What to do with files after you delete them.",
 			"option-choice-system-trash": "Move to system trash",
 			"option-choice-vault-trash": "Move to Obsidian trash (.trash folder)",
-			"option-choice-permanent-delete": "Permanent delete",
+			"option-choice-permanent-delete": "శాశ్వతంగా తీసివేయు",
 			"option-always-update-links": "Always update internal links",
 			"option-always-update-links-description": "Whether to automatically update links after renaming a file or prompt.",
 			"option-new-note-location": "New note default location",
@@ -124,13 +124,13 @@
 			"placeholder-excluded-filter": "Enter path or \"/regex/\"..."
 		},
 		"appearance": {
-			"name": "Appearance",
-			"option-base-theme": "Base theme",
+			"name": "స్వరూపం",
+			"option-base-theme": "బేస్ థీమ్",
 			"option-base-theme-description": "Choose Obsidian’s default color scheme.",
-			"option-accent-color": "Accent color",
+			"option-accent-color": "యాస రంగు",
 			"option-accent-color-description": "Choose the accent color used throughout the app.",
-			"dark-theme": "Dark",
-			"light-theme": "Light",
+			"dark-theme": "ముదురు",
+			"light-theme": "లేత",
 			"system-theme": "Adapt to system",
 			"option-font": "Font",
 			"option-advanced": "Advanced",
